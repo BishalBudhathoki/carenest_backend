@@ -59,7 +59,7 @@
     "eslint": "^9.39.2",
     "firebase-tools": "^15.1.0",
     "globals": "^17.0.0",
-    "hono": "^4.11.3",
+    "hono": "^4.11.10",
     "ioredis-mock": "^8.13.1",
     "jest": "^30.2.0",
     "nodemon": "^3.0.2",
